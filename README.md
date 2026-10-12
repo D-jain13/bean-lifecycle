@@ -55,7 +55,7 @@ The diagram shows the 9 main stages. The demo prints 12 lines because it splits 
 ## Run it
 
 ```bash
-git clone https://github.com/d-jain13/bean-lifecycle.git
+git clone https://github.com/D-jain13/bean-lifecycle.git
 cd bean-lifecycle
 mvn spring-boot:run
 ```
